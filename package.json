@@ -21,5 +21,9 @@
 	"dependencies": {
 		"fs-extra": "^11.2.0",
 		"prompts": "^2.4.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Bwarlock/react-boilerplate-template-api.git"
 	}
 }
