@@ -1,0 +1,25 @@
+{
+	"name": "react-boilerplate-template-api",
+	"version": "1.0.0",
+	"description": "A react template with 3-tier api architecture api > hook > ui , added configurations for vite-ts redux , toolkit , persist , react-router-dom , storybook",
+	"main": "bin/index.js",
+	"bin": {
+		"create-react-boilerplate-template-api": "bin/index.js"
+	},
+	"scripts": {
+		"start": "node bin/index.js"
+	},
+	"author": "bwarlock",
+	"license": "ISC",
+	"keywords": [
+		"npm",
+		"create",
+		"react",
+		"vite",
+		"template"
+	],
+	"dependencies": {
+		"fs-extra": "^11.2.0",
+		"prompts": "^2.4.2"
+	}
+}
