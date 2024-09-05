@@ -1,5 +1,5 @@
 {
-	"name": "react-boilerplate-template-api",
+	"name": "create-react-boilerplate-template-api",
 	"version": "1.0.0",
 	"description": "A react template with 3-tier api architecture api > hook > ui , added configurations for vite-ts redux , toolkit , persist , react-router-dom , storybook",
 	"main": "bin/index.js",
